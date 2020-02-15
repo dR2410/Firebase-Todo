@@ -5,6 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+It is flutter todo app which uses Firebase for sign up and sign In. 
 
 A few resources to get you started if this is your first Flutter project:
 
